@@ -1,7 +1,5 @@
 package com.joje.gug.core;
 
-import java.util.Arrays;
-
 import com.joje.gug.vo.GugVo;
 import com.joje.gug.vo.GugsVo;
 
